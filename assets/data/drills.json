@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "drills": [
+    {
+      "id": 0,
+      "title": "Penalties",
+      "blurb": "Take penalties against a keeper that reads your habits. Aim with the stick, hold SHOOT for power.",
+      "goal": "Score",
+      "attempts": 10
+    },
+    {
+      "id": 1,
+      "title": "Free-kick lab",
+      "blurb": "Random spot 19-30 m out with a wall. Hold CURL while shooting to bend it; the preview line shows the path.",
+      "goal": "Score",
+      "attempts": 10
+    },
+    {
+      "id": 2,
+      "title": "1v1 vs keeper",
+      "blurb": "Beat the chasing defender and the keeper from open play.",
+      "goal": "Score",
+      "attempts": 10
+    },
+    {
+      "id": 3,
+      "title": "3v2 overload",
+      "blurb": "Two System team-mates run off you. Use THRU balls and time the pass before the offside line.",
+      "goal": "Score",
+      "attempts": 10
+    },
+    {
+      "id": 4,
+      "title": "Corner delivery",
+      "blurb": "Deliver the corner into a marked box. Use CURL + THRU for an in-swinger.",
+      "goal": "Score",
+      "attempts": 10
+    },
+    {
+      "id": 5,
+      "title": "Crossing and finishing",
+      "blurb": "A winger crosses; you meet it first time. Tap SHOOT as the ball arrives.",
+      "goal": "Score",
+      "attempts": 12
+    },
+    {
+      "id": 6,
+      "title": "Press escape",
+      "blurb": "Build from your keeper against a five-man press and get the ball past halfway.",
+      "goal": "Beat the press",
+      "attempts": 8,
+      "infinite_stamina": false
+    },
+    {
+      "id": 7,
+      "title": "Defend 1v1",
+      "blurb": "Jockey, time the tackle (tap = stand, hold = slide) or force the attacker wide.",
+      "goal": "Win the ball",
+      "attempts": 10
+    }
+  ]
+}

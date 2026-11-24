@@ -1,0 +1,53 @@
+{
+  "version": 4,
+  "notes": "eFootball-style context controls. Slots are fixed positions (normalised 0..1; size = diameter as a fraction of min(width, 2 x height), then x the player's button-size setting). With the ball: tl THROUGH, tr SHOOT, bl PASS, br DASH, s1 LOFT (CLEAR in own third), s2 SKILL, s3 1-2 (pass and run). Without the ball: tl TEAM PRESS, tr SWITCH, bl PRESS (hold), br DASH, s1 TACKLE.",
+  "stick": {
+    "x": 0.13,
+    "y": 0.68,
+    "radius": 0.07
+  },
+  "buttons": [
+    {
+      "action": "tl",
+      "x": 0.755,
+      "y": 0.52,
+      "size": 0.1
+    },
+    {
+      "action": "tr",
+      "x": 0.885,
+      "y": 0.5,
+      "size": 0.1
+    },
+    {
+      "action": "bl",
+      "x": 0.765,
+      "y": 0.82,
+      "size": 0.1
+    },
+    {
+      "action": "br",
+      "x": 0.915,
+      "y": 0.79,
+      "size": 0.12
+    },
+    {
+      "action": "s1",
+      "x": 0.64,
+      "y": 0.64,
+      "size": 0.07
+    },
+    {
+      "action": "s2",
+      "x": 0.8,
+      "y": 0.3,
+      "size": 0.065
+    },
+    {
+      "action": "s3",
+      "x": 0.655,
+      "y": 0.4,
+      "size": 0.06
+    }
+  ]
+}
